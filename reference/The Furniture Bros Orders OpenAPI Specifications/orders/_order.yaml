@@ -1,0 +1,4 @@
+- getordersgetall
+- postordersadd
+- postorderschangestatus
+- postordersdelete
