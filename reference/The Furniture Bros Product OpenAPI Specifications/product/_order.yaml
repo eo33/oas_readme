@@ -1,0 +1,6 @@
+- getproducts
+- getproductsfilename
+- putproductsfilename
+- deleteproductsfilename
+- getproductsdetailsfilename
+- postproductsupload
