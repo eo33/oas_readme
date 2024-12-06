@@ -1,0 +1,5 @@
+- getaddresslist
+- getaddressapikey
+- postaddressadd
+- putaddressselect
+- deleteaddressdelete
