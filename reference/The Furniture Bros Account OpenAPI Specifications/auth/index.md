@@ -1,4 +1,4 @@
 ---
-title: Auth
+title: Account
 hidden: false
 ---
