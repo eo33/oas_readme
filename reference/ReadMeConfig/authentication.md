@@ -5,5 +5,5 @@ api:
   file: address.json
   operationId: get_address-api-key
 api_config: authentication
-hidden: true
+hidden: false
 ---
