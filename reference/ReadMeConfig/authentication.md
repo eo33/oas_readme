@@ -5,5 +5,5 @@ api:
   file: account.json
   operationId: post_auth-register
 api_config: authentication
-hidden: false
+hidden: true
 ---
