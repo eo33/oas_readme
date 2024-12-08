@@ -4,7 +4,7 @@ api:
   file: account.json
   operationId: post_auth-register
 api_config: getting-started
-hidden: false
+hidden: true
 ---
 # Get Started
 
