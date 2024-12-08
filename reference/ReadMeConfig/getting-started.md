@@ -1,10 +1,10 @@
 ---
-title: Getting Started
+title: Quick start
 api:
   file: account.json
   operationId: post_auth-register
 api_config: getting-started
-hidden: true
+hidden: false
 ---
 # Get Started
 
