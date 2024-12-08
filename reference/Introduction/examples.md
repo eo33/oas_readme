@@ -7,11 +7,11 @@ metadata:
 ---
 This section provides an example of an API request in different programming languages to help you quickly integrate The Furniture Bros API into your application. In the API docs section, each endpoint includes code snippets in various languages for easy copy-pasting. For this example, we will be using this endpoint:
 
-`POST /auth/register` - This endpoint allows you to create and register an account.&#x20;
+`POST /auth/register` - This endpoint allows you to create and register an account.
 
 ### cURL
 
-```
+```Text cURL
 curl --location 'http://thefurniturebros.com/auth/register' \
 --header 'Content-Type: application/json' \
 --data-raw '{
@@ -21,10 +21,7 @@ curl --location 'http://thefurniturebros.com/auth/register' \
     "admin": false
 }'
 ```
-
-### JavaScript
-
-```
+```Text JavaScript
 const myHeaders = new Headers();
 myHeaders.append("Content-Type", "application/json");
 
@@ -47,10 +44,7 @@ fetch("http://thefurniturebros.com/auth/register", requestOptions)
   .then((result) => console.log(result))
   .catch((error) => console.error(error));
 ```
-
-### Python
-
-```
+```Text Python
 import http.client
 import json
 
@@ -69,10 +63,7 @@ res = conn.getresponse()
 data = res.read()
 print(data.decode("utf-8"))
 ```
-
-### Java
-
-```
+```java
 OkHttpClient client = new OkHttpClient().newBuilder()
   .build();
 MediaType mediaType = MediaType.parse("application/json");
