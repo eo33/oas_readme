@@ -1,5 +1,5 @@
 ---
-title: Getting Started with The Furniture Bros
+title: JavaScript
 excerpt: >-
   This page will help you get started with The Furniture Bros. You'll be up and
   running in a jiffy!
