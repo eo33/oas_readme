@@ -8,4 +8,8 @@ api:
   operationId: post_auth-register
 hidden: false
 ---
-This endpoint is used for xyz
+Sample message
+
+<br />
+
+If you want to do xyz. pls check.
