@@ -4,7 +4,7 @@ api:
   file: address.json
   operationId: get_address-api-key
 api_config: getting-started
-hidden: false
+hidden: true
 ---
 # Get Started
 
