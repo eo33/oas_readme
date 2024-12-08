@@ -2,8 +2,8 @@
 title: Authentication
 excerpt: Set up the authentication for your API to help users manage their credentials.
 api:
-  file: address.json
-  operationId: get_address-api-key
+  file: account.json
+  operationId: post_auth-register
 api_config: authentication
 hidden: true
 ---

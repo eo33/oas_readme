@@ -1,8 +1,8 @@
 ---
 title: Getting Started
 api:
-  file: address.json
-  operationId: get_address-api-key
+  file: account.json
+  operationId: post_auth-register
 api_config: getting-started
 hidden: true
 ---
