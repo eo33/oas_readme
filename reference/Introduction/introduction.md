@@ -2,7 +2,7 @@
 title: Introduction
 excerpt: This page introduces The Furniutre Bros API.
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
